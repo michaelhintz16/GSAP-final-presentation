@@ -3,8 +3,10 @@
 
 
 
-|   | complete  | Not Complete  |   |   |
+| Tasks  | complete  | Not Complete  |   |   |
 |---|---|---|---|---|
+| Home Page  |   |   |   |   |
+|   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
