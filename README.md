@@ -5,7 +5,7 @@
 
 | Tasks  | In Progress  | Complete |  Not Complete |   |
 |---|---|---|---|---|
-| Home Page  |   |   |   |   |
+| Home Page  |   |   |  ✔️ |   |
 |  About Page |   |   |   |   |
 | Features Page  |   |   |   |   |
 | Image Popout  |   |   |   |   |
