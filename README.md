@@ -3,7 +3,7 @@
 
 
 
-| Tasks  | complete  | Not Complete  |   |   |
+| Tasks  | In Progress  | Complete |  Not Complete |   |
 |---|---|---|---|---|
 | Home Page  |   |   |   |   |
 |  About Page |   |   |   |   |
