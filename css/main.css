@@ -10,7 +10,7 @@ body {
   display: flex;
   align-items: center ;
   min-height: 100vh;
-  padding:4rem;
+  padding:2rem;
   background: linear-gradient(110deg, rgb(128, 128, 128) 40%, lightblue 40% );
  
 
@@ -24,8 +24,8 @@ body {
   font-weight: bold;
   margin: auto;
   font-size: 1.9rem;
-  margin-right: 25%;
-  text-align:right;
+  margin-right: 20%;
+  text-align:center;
   
 
   

@@ -16,7 +16,7 @@ section {
 }
 
 .one {
-  background: #0c0d0d;
+  background: linear-gradient(110deg, rgb(128, 128, 128) 40%, lightblue 40% );
 }
 
 .two {
