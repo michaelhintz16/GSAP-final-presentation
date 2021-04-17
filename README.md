@@ -7,7 +7,7 @@
 |---|---|---|---|---|
 | Home Page  |   |  ✔️ |   |   |
 |  About Page | ✔️  |   |   |   |
-| Features Page  |   |   |   |  ✔️ |
-| Image Popout  |   |   |   |  ✔️ |
-| SVG Morph  |   |   |   |  ✔️ | 
+| Features Page  |   |   |  ✔️ |   |
+| Image Popout  |   |   |  ✔️ |   |
+| SVG Morph  |   |   |  ✔️ |   | 
 
