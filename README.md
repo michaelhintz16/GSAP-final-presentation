@@ -9,5 +9,5 @@
 |  About Page | ✔️  |   |   |   |
 | Features Page  |   |   |  ✔️ |   |
 | Image Popout  |   |   |  ✔️ |   |
-| SVG Morph  |   |   |  ✔️ |   | 
+| SVG Morph  |   |  ✔️ |   |   | 
 
