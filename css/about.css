@@ -15,8 +15,9 @@ section {
   align-items: center;
 }
 
-.one {
+.one  {
   background: linear-gradient(110deg, rgb(128, 128, 128) 40%, lightblue 40% );
+  
 }
 
 .two {
@@ -30,13 +31,28 @@ section {
 .four {
   background: #2cbde4;
 }
+.five{
+  background: orange;
+}
+.six {
+  background: rgb(190, 83, 83);
+  
+}
+.six p{
+  color: rgb(197, 197, 197);
+}
 
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 95vh;
   padding: 3rem calc((100vw - 1300px) / 2);
+  
 }
+
+
+
+
 
 .column-left {
   display: flex;
@@ -55,7 +71,7 @@ section {
 
 .column-left p {
   margin-bottom: 2rem;
-  font-size: 4rem;
+  font-size: 5rem;
   line-height: 1.1;
 }
 
