@@ -6,8 +6,8 @@
 | Tasks  | In Progress  | Complete |  Not Complete |   |
 |---|---|---|---|---|
 | Home Page  |   |  ✔️ |   |   |
-|  About Page | ✔️  |   |   |   |
+|  About Page |   |  ✔️ |   |   |
 | Features Page  |   |   |  ✔️ |   |
-| Image Popout  |   |   |  ✔️ |   |
+| Gooey Animation  |   | ✔️  |   |   |
 | SVG Morph  |   |  ✔️ |   |   | 
 
