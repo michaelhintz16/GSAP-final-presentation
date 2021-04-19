@@ -8,6 +8,6 @@
 | Home Page  |   |  ✔️ |   |   |
 |  About Page |   |  ✔️ |   |   |
 | Features Page  |   |   |  ✔️ |   |
-| Gooey Animation  |  ✔️ |   |   |   |
+| Gooey Animation  |   | ✔️  |   |   |
 | SVG Morph  |   |  ✔️ |   |   | 
 
