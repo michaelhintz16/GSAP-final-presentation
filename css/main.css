@@ -67,7 +67,7 @@ h1 .box {
   position: absolute;
   bottom: 0;
   display: absolute;
-  background: #7eff05fd;
+  background: lightblue 40% ;
   height: 1vw;
   z-index: -1;
 }
